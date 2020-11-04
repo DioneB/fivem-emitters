@@ -108,6 +108,9 @@ Static Emitter Name | Active
 `SE_MICHAELS_HOUSE_RADIO` | *Auto*
 `SE_MP_AP_RAD_v_apart_midspaz_lounge` | *Auto*
 `SE_MP_AP_RAD_v_studio_lo_living` | *Auto*
+`SE_MP_GARAGE_L_RADIO` | *Auto*
+`SE_MP_GARAGE_M_RADIO` | *Auto*
+`SE_MP_GARAGE_S_RADIO` | *Auto*
 `SE_MP_APT_1_1` | *Auto*
 `SE_MP_APT_1_2` | *Auto*
 `SE_MP_APT_1_3` | *Auto*
@@ -159,4 +162,18 @@ Static Emitter Name | Active
 `SE_MP_APT_9_1` | *Auto*
 `SE_MP_APT_9_2` | *Auto*
 `SE_MP_APT_9_3` | *Auto*
-
+`SE_MP_APT_NEW_1_1` | *Auto*
+`SE_MP_APT_NEW_1_2` | *Auto*
+`SE_MP_APT_NEW_1_3` | *Auto*
+`SE_MP_APT_NEW_2_1` | *Auto*
+`SE_MP_APT_NEW_2_2` | *Auto*
+`SE_MP_APT_NEW_2_3` | *Auto*
+`SE_MP_APT_NEW_3_1` | *Auto*
+`SE_MP_APT_NEW_3_2` | *Auto*
+`SE_MP_APT_NEW_3_3` | *Auto*
+`SE_MP_APT_NEW_4_1` | *Auto*
+`SE_MP_APT_NEW_4_2` | *Auto*
+`SE_MP_APT_NEW_4_3` | *Auto*
+`SE_MP_APT_NEW_5_1` | *Auto*
+`SE_MP_APT_NEW_5_2` | *Auto*
+`SE_MP_APT_NEW_5_3` | *Auto*
